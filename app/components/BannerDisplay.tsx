@@ -26,8 +26,8 @@ const BannerDisplay: React.FC<BannerDisplayProps> = ({
       <div className="h-80 w-80 relative">
         <Image
           src={isBackgroundImage ? background : image}
-          width={80}
-          height={80}
+          width={720}
+          height={720}
           alt={title}
           className="absolute inset-0 w-full h-full object-cover"
         />

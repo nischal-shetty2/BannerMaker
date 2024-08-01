@@ -96,7 +96,7 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
             </button>
           </div>
           <div className="overflow-y-auto no-scrollbar h-full pb-14">
-            <div className="relative mb-6 md:mx-10">
+            <div className="relative mx-10">
               <BannerDisplay
                 id={editedBanner.id}
                 title={editedBanner.title}
@@ -117,8 +117,8 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
                     onChange={handleUpload}
                   />
                   <Image
-                    width={80}
-                    height={80}
+                    width={720}
+                    height={720}
                     src="/images/upload-icon.webp"
                     alt="Upload"
                   />
@@ -129,8 +129,8 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
                     className="relative w-16 h-16 flex-shrink-0 cursor-pointer overflow-hidden rounded-full border-2 border-transparent hover:border-blue-500"
                     onClick={() => handlePhotoSelect(photo)}>
                     <Image
-                      width={80}
-                      height={80}
+                      width={720}
+                      height={720}
                       src={photo}
                       alt={`Existing photo ${index}`}
                       className="w-full h-full object-cover rounded-full"
@@ -174,7 +174,7 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
           </div>
         </div>
         <div
-          className={`absolute bg-white w-full max-w-md bottom-12 rounded-b-2xl px-5 pt-5 pb-1 flex flex-col items-center transform transition-opacity duration-700 ease-in-out ${
+          className={`absolute bg-white w-full max-w-md bottom-12 rounded-2xl px-5 pt-5 pb-1 flex flex-col items-center transform transition-opacity duration-700 ease-in-out ${
             visible ? "opacity-100" : "opacity-0"
           }`}>
           <button
