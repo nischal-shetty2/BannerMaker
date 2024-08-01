@@ -74,7 +74,7 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
   if (!editedBanner) return null;
 
   return (
-    <div className="bg-gray-900 bg-opacity-75 fixed inset-0 flex items-center justify-center">
+    <div className="bg-gray-900 bg-opacity-75 fixed inset-0 flex items-center justify-center p-4 sm:p-8">
       <div
         className={`fixed inset-0 flex items-center justify-center transition-transform duration-700 ease-in-out transform ${
           visible ? "translate-y-0" : "translate-y-full"
@@ -95,8 +95,8 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
               </svg>
             </button>
           </div>
-          <div className="overflow-y-auto no-scrollbar h-full pb-14">
-            <div className="relative mx-10">
+          <div className="overflow-y-auto no-scrollbar h-full pb-14 sm:pb-6">
+            <div className="relative mx-10 ">
               <BannerDisplay
                 id={editedBanner.id}
                 title={editedBanner.title}
@@ -104,6 +104,7 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
                 cta={editedBanner.cta}
                 image={editedBanner.image}
                 background={editedBanner.background}
+                width={true}
               />
             </div>
             <div className="mt-7">

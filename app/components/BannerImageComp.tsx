@@ -18,6 +18,7 @@ export interface BannerDisplayProps {
   cta: string;
   image: string;
   background: string;
+  width?: boolean;
 }
 
 const BannerImageComp: React.FC<BannerProps> = ({

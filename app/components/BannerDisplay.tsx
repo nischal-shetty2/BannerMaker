@@ -10,6 +10,7 @@ const BannerDisplay: React.FC<BannerDisplayProps> = ({
   cta,
   image,
   background,
+  width,
 }) => {
   const isBackgroundImage = background.startsWith("/images");
   const randomButton = buttonStyle(id);
@@ -23,7 +24,7 @@ const BannerDisplay: React.FC<BannerDisplayProps> = ({
           ? `url(${image}) no-repeat center center / cover`
           : background,
       }}>
-      <div className="h-80 w-80 relative">
+      <div className={`relative h-80 ${width ? "w-full" : "w-72"} sm:w-80`}>
         <Image
           src={isBackgroundImage ? background : image}
           width={720}
@@ -34,7 +35,7 @@ const BannerDisplay: React.FC<BannerDisplayProps> = ({
       </div>
       <div className="absolute bottom-6 left-6 text-black">
         <div className={`${randomText}`}>
-          <h2 className="text-3xl">{title}</h2>
+          <h2 className="text-xl sm:text-3xl">{title}</h2>
           <p className="text-xs">{description}</p>
         </div>
         <button className={`${randomButton} flex cursor-default`}>
