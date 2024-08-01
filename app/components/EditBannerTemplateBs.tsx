@@ -180,7 +180,7 @@ const EditBannerTemplateBs: React.FC<EditBannerProps> = ({
           }`}>
           <button
             onClick={handleSave}
-            className="bg-[rgb(41,71,68)] hover:bg-[rgb(81,126,121)] text-white py-3 px-4 rounded-lg w-full mx-10 mb-5">
+            className="bg-[rgb(41,71,68)] hover:bg-[rgb(81,126,121)] text-white py-3 px-4 rounded-lg w-full mx-10 sm:mt-0 mt-5 sm:mb-3">
             Done
           </button>
         </div>
