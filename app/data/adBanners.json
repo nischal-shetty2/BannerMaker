@@ -108,8 +108,8 @@
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
     "cta": "Learn More",
-    "image": "/images/walk.jpg",
-    "background": "#ffebf1"
+    "image": "/images/waterfall.jpg",
+    "background": "/images/Templates/orange.png"
   },
   {
     "id": 15,
@@ -132,8 +132,8 @@
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
     "cta": "Learn More",
-    "image": "/images/waterfall.jpg",
-    "background": "/images/Templates/line.png"
+    "image": "/images/walk.jpg",
+    "background": "#ffebf1"
   },
   {
     "id": 18,
@@ -141,6 +141,6 @@
     "description": "Harness AI for Effective Campaigns",
     "cta": "Learn More",
     "image": "/images/waterfall.jpg",
-    "background": "/images/Templates/orange.png"
+    "background": "#000000"
   }
 ]
