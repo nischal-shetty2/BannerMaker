@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/coffee.jpg",
     "background": "/images/Templates/fade-black.png"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Explore",
+    "cta": "Learn More",
     "image": "/images/skyline.jpg",
     "background": "#e3f2fd"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Buy Now",
+    "cta": "Learn more",
     "image": "/images/sunset.avif",
     "background": "/images/Templates/rounded.png"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "See More",
+    "cta": "Learn More",
     "image": "/images/bird.jpg",
     "background": "#d4edda"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Get Offers",
+    "cta": "Learn More",
     "image": "/images/cycle.jpg",
     "background": "#d6e9c6"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/garden.jpg",
     "background": "#f8f9fa"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Discover",
+    "cta": "Learn More",
     "image": "/images/tree.jpg",
     "background": "/images/Templates/green-square.png"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Explore",
+    "cta": "Learn More",
     "image": "/images/future.jpg",
     "background": "/images/Templates/blue-curve.png"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/skyline.jpg",
     "background": "/images/Templates/fade-black.png"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Get Inspired",
+    "cta": "Learn More",
     "image": "/images/lighthouse.jpg",
     "background": "#fff3e0"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Order Now",
+    "cta": "Learn More",
     "image": "/images/dusky.jpg",
     "background": "/images/Templates/diagonal.png"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Browse",
+    "cta": "Learn More",
     "image": "/images/shore.jpg",
     "background": "#fefae0"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/sunset1.jpg",
     "background": "/images/Templates/golden.png"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "See Deals",
+    "cta": "Learn More",
     "image": "/images/walk.jpg",
     "background": "#ffebf1"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/ai.png",
     "background": "/images/Templates/gold-diagonal.png"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Explore",
+    "cta": "Learn More",
     "image": "/images/traffic.jpg",
     "background": "#fff9c4"
   },
@@ -131,16 +131,16 @@
     "id": 17,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Shop Now",
+    "cta": "Learn More",
     "image": "/images/waterfall.jpg",
-    "background": "/images/Templates/orange.png"
+    "background": "/images/Templates/line.png"
   },
   {
     "id": 18,
     "title": "Boost Your Leads",
     "description": "Harness AI for Effective Campaigns",
-    "cta": "Buy Now",
+    "cta": "Learn More",
     "image": "/images/waterfall.jpg",
-    "background": "/images/Templates/line.png"
+    "background": "/images/Templates/orange.png"
   }
 ]
